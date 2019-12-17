@@ -219,7 +219,7 @@
     "coinflipoutcome2":"La moneda cayo en tails.",
     "pokemoncaught":"has atrapado un **{}**!",
     "invalidpokemon":"Pokimon invalido",
-    "kiss":"**{}** beso **{}**...",
+    "kiss":"**{}** beso **{}**..",
     "firstkiss":"Ese es el primer beso de {} y {}!",
     "kissamount":"Eso son {} besos ahora!",
     "hug":"**{}** abrazos **{}**...",
