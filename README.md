@@ -1,1 +1,3 @@
-# asari-selfbot
+# Translations for Asari Selfbot
+
+Credits: (Coming soon)
