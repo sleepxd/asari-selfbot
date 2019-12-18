@@ -2,6 +2,7 @@
 
 **Credits**
 - Bulgarian: m឵#0001
+- German: mtrx.#5969
 - Norwegian: maiu#4059
 - Spanish: suspect#0008
 
