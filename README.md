@@ -1,6 +1,7 @@
 # Translations for Asari Selfbot
 
 **Credits**
+- English: Sleep
 - Arabic: Ҝ乇ㄥㄖㄒ3乂#6666
 - Bulgarian: m឵#0001, VιƈƙCԋσ#1650
 - French: tagadee#8623, dob#0001
